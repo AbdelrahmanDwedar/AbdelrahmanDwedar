@@ -23,7 +23,7 @@
 * CSS [<img height="20" src="https://i.ibb.co/pP5wFfC/pngegg-17.png" alt="CSS" border="0">](url)
 <hr>
 
-## 📧 My Contacts <img src="https://i.ibb.co/wpcck6r/pngegg-5.png" width="300" alt="Social Media" border="0" align="right">
+## 📧 My Contacts <img src="https://i.ibb.co/wpcck6r/pngegg-5.png" width="370" alt="Social Media" border="0" align="right">
 * [DEV](https://dev.to/abdelrahman_dwedar)
 * [Hashnode](https://hashnode.com/@Adobe)
 * [Twitter](https://twitter.com/3_Dwedar)
