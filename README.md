@@ -1,7 +1,7 @@
 <h1 align="center">👋🏻 Hey there,<br> I'm Abdelrahman Dwedar</h1> 
 <hr>
 
-## 🙋🏻‍♂️ About Me <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="300" align="right">
+## 🙋🏻‍♂️ About Me <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="290" align="right">
 * <b>Self-tought</b> developer.
 * <b>Software</b> developer.
 * Currentlly highschool student.
