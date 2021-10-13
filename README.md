@@ -32,3 +32,4 @@
 * [Discord Server](https://discord.gg/8FDyqPU) <img src="https://user-images.githubusercontent.com/67812625/137221910-8e849d6d-6f0b-4404-b5e4-797291924611.png" width="20" alt="Discord">
 * [Twitch](https://www.twitch.tv/7350_gaming) <img src="https://www.freepnglogos.com/uploads/twitch-logo-vector-png-2.png" width="20" alt="twitch logo vector png" width="20" alt="Twitch">
 * [Dev List](https://devlist.dev/p/542750889769828383) <img src="https://images-ext-2.discordapp.net/external/sawFqQsEYcb2FzjHNSAf2RIm75P1H4-wkoOTgmweF5U/https/cdn.discordapp.com/avatars/697846463459491932/924f3dad499ee495b517050be4dff4f1.webp?width=115&height=115" width="20" alt="Dev List">
+<br>
