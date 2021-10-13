@@ -8,8 +8,8 @@
 * Hopes to be a senior software engneer.
 <hr>
 
-## <img src="https://user-images.githubusercontent.com/67812625/137175204-80bbeb5c-b861-4328-a801-a759791f5aa1.png" width="55" alt="Languages"> My Languages
-#### Programming Languages:- <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="300" align="right">
+## <img src="https://user-images.githubusercontent.com/67812625/137175204-80bbeb5c-b861-4328-a801-a759791f5aa1.png" width="55" alt="Languages"> My Languages <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="350" align="right">
+#### Programming Languages:- 
 * Python [<img height="20" src="https://i.ibb.co/Y8NfQhX/pngegg-18.png" alt="Python" border="0">](https://www.python.org/)
 * JavaScript [<img height="20" src="https://i.ibb.co/cvkNf5s/pngegg-15.png" alt="JavaScript" border="0">](https://www.javascript.com/)
 * TypeScript [<img height="20" src="https://i.ibb.co/D93BmHh/pngegg-25.png" alt="TypeScript" border="0">](https://www.typescriptlang.org/)
