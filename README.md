@@ -1,4 +1,4 @@
-<h1 align="center">👨🏻‍💻 Abdelrahman Dwedar 👨🏻‍💻</h1>
+<h1 align="center">👋🏻 Hey there,<br> I'm Abdelrahman Dwedar</h1>
 <hr>
 
 ## About Me
