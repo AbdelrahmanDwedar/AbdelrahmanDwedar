@@ -17,11 +17,22 @@
 [<img height="20" src="https://i.ibb.co/Q830MPL/pngegg-20.png" alt="C" border="0">](url) C<br>
 [<img height="20" src="https://i.ibb.co/Q830MPL/pngegg-20.png" alt="C sharp" border="0">](https://docs.microsoft.com/en-us/dotnet/csharp/) C#<br>
 [<img height="20" src="https://i.ibb.co/Wc4hP1S/pngegg-22.png" alt="Ruby" border="0">](https://www.ruby-lang.org/en/) Ruby<br>
-[<img height="15" src="https://i.ibb.co/X26HfmN/pngegg-13.png" alt="PHP" border="0">](https://www.php.net/) PHP<br>
+[<img height="15" src="https://i.ibb.co/X26HfmN/pngegg-13.png" alt="PHP" border="0">](https://www.php.net/) PHP
 #### Other:-
 [<img height="20" src="https://i.ibb.co/tcBgYx3/pngegg-14.png" alt="HTML" border="0">](https://html.com/) HTML<br>
 [<img height="20" src="https://i.ibb.co/pP5wFfC/pngegg-17.png" alt="CSS" border="0">](url) CSS<br>
 <hr>
+<!--
+## Frameworks & Libararies
+#### 
+
+<br>
+
+
+## GitHub Status
+[![Follows](https://img.shields.io/github/followers/AbdelrhmanDwedar?style=for-the-badge&logo=github)](https://github.com/AbdelrhmanDwedar?tab=followers)
+
+-->
 
 ## <img src="https://user-images.githubusercontent.com/67812625/137174926-2961f012-ba58-4619-8dd3-b709f160051d.png" width="30" alt="Contacts"> My Contacts <img src="https://i.ibb.co/wpcck6r/pngegg-5.png" width="370" alt="Social Media" border="0" align="right">
 * [DEV](https://dev.to/abdelrahman_dwedar) <img width="20" src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" alt="DEV">
@@ -32,4 +43,3 @@
 * [Discord Server](https://discord.gg/8FDyqPU) <img src="https://user-images.githubusercontent.com/67812625/137221910-8e849d6d-6f0b-4404-b5e4-797291924611.png" width="20" alt="Discord">
 * [Twitch](https://www.twitch.tv/7350_gaming) <img src="https://www.freepnglogos.com/uploads/twitch-logo-vector-png-2.png" width="20" alt="twitch logo vector png" width="20" alt="Twitch">
 * [Dev List](https://devlist.dev/p/542750889769828383) <img src="https://images-ext-2.discordapp.net/external/sawFqQsEYcb2FzjHNSAf2RIm75P1H4-wkoOTgmweF5U/https/cdn.discordapp.com/avatars/697846463459491932/924f3dad499ee495b517050be4dff4f1.webp?width=115&height=115" width="20" alt="Dev List">
-<br>
