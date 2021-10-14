@@ -24,16 +24,17 @@
 <hr>
 
 <!--
+
 ## Frameworks & Libararies
 #### 
-* 
-<br>
+
+<br> 
 
 ## GitHub Status
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdelrahmanDwedar&show_icons=true&theme=tokyonight)](https://github.com/AbdelrhmanDwedar)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrahmanDwedar&langs_count=5&theme=react)](https://github.com/AbdelrhmanDwedar/github-readme-stats)
-<img src="https://img.shields.io/github/followers/AbdelrahmanDwedar?style=flat&logo=github" alt="Follows" align="top" width="175">
-<img src="https://komarev.com/ghpvc/?username=AbdelrahmanDwedar&style=flat&logo=github" alt="Views" align="down" width="150">
+<a rel="https://github.com/AbdelrhmanDwedar/github-readme-stats" target="_blank" align="top">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrahmanDwedar&langs_count=5&theme=react)</a><br>
+<img src="https://img.shields.io/github/followers/AbdelrahmanDwedar?style=flat&logo=github" alt="Follows" width="175" align="top"> 
+<img src="https://komarev.com/ghpvc/?username=AbdelrahmanDwedar&style=flat&logo=github" alt="Views" width="175">
 <hr>
 -->
 
