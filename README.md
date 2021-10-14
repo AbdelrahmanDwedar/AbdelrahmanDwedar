@@ -26,7 +26,9 @@
 <!--
 
 ## Frameworks & Libararies
-#### 
+#### Front-End
+
+#### Back-End
 
 <br> 
 
