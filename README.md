@@ -22,7 +22,6 @@
 [<img height="20" src="https://i.ibb.co/tcBgYx3/pngegg-14.png" alt="HTML" border="0">](https://html.com/) HTML<br>
 [<img height="20" src="https://i.ibb.co/pP5wFfC/pngegg-17.png" alt="CSS" border="0">](url) CSS<br>
 <hr>
-
 <!--
 ## Frameworks & Libararies
 #### 
@@ -31,7 +30,7 @@
 
 ## GitHub Status
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrhmanDwedar&langs_count=5&theme=radical)](https://github.com/AbdelrhmanDwedar/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrhmanDwedar&langs_count=5&theme=react)](https://github.com/AbdelrhmanDwedar/github-readme-stats)
 [![Follows](https://img.shields.io/github/followers/AbdelrhmanDwedar?style=for-the-badge&logo=github)](https://github.com/AbdelrhmanDwedar?tab=followers)
 -->
 
