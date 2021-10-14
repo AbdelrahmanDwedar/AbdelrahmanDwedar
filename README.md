@@ -30,9 +30,11 @@
 <br>
 
 ## GitHub Status
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdelrahmanDwedar&show_icons=true&theme=tokyonight)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdelrahmanDwedar&show_icons=true&theme=tokyonight)](https://github.com/AbdelrhmanDwedar)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrahmanDwedar&langs_count=5&theme=react)](https://github.com/AbdelrhmanDwedar/github-readme-stats)
-[![Follows](https://img.shields.io/github/followers/AbdelrahmanDwedar?style=for-the-badge&logo=github)](https://github.com/AbdelrhmanDwedar?tab=followers)
+<img src="https://img.shields.io/github/followers/AbdelrahmanDwedar?style=flat&logo=github" alt="Follows" align="top" width="175">
+<img src="https://komarev.com/ghpvc/?username=AbdelrahmanDwedar&style=flat&logo=github" alt="Views" align="down" width="150">
+<hr>
 -->
 
 ## <img src="https://user-images.githubusercontent.com/67812625/137174926-2961f012-ba58-4619-8dd3-b709f160051d.png" width="30" alt="Contacts"> My Contacts <img src="https://i.ibb.co/wpcck6r/pngegg-5.png" width="370" alt="Social Media" border="0" align="right">
