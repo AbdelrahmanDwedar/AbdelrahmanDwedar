@@ -30,15 +30,15 @@
 
 #### Back-End
 
-<br> 
+<br> -->
 
-## GitHub Status
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdelrahmanDwedar&show_icons=true&theme=tokyonight)](https://github.com/AbdelrhmanDwedar)<br>
+## Status
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdelrahmanDwedar&show_icons=true&theme=tokyonight)](https://github.com/AbdelrhmanDwedar)
+<a href="https://app.daily.dev/3_Dwedar"><img align="right" width="245" src="https://api.daily.dev/devcards/9d34a8e386d24adf8d75ad4366eb254b.png?r=7cf" width="300" alt="Abdelrahman Dwedar's Dev Card"/></a><br>
 <a rel="https://github.com/AbdelrhmanDwedar/github-readme-stats" target="_blank" align="top">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrahmanDwedar&langs_count=5&theme=react)</a><br>
 <img src="https://img.shields.io/github/followers/AbdelrahmanDwedar?style=flat&logo=github" alt="Follows" width="175" align="top"> 
 <img src="https://komarev.com/ghpvc/?username=AbdelrahmanDwedar&style=flat&logo=github" alt="Views" width="175">
 <hr>
--->
 
 ## <img src="https://user-images.githubusercontent.com/67812625/137174926-2961f012-ba58-4619-8dd3-b709f160051d.png" width="30" alt="Contacts"> My Contacts <img src="https://i.ibb.co/wpcck6r/pngegg-5.png" width="370" alt="Social Media" border="0" align="right">
 * [DEV <img width="20" src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" alt="DEV">](https://dev.to/abdelrahman_dwedar)
