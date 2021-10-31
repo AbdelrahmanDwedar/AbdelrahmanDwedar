@@ -34,7 +34,8 @@
 
 ## Status
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdelrahmanDwedar&show_icons=true&theme=tokyonight)](https://github.com/AbdelrhmanDwedar)
-<a href="https://app.daily.dev/3_Dwedar"><img align="right" width="245" src="https://api.daily.dev/devcards/9d34a8e386d24adf8d75ad4366eb254b.png?r=7cf" width="300" alt="Abdelrahman Dwedar's Dev Card"/></a><br>
+<a href="https://app.daily.dev/3_Dwedar"><img align="right" width="245" src="https://api.daily.dev/devcards/9d34a8e386d24adf8d75ad4366eb254b.png?r=pra" width="300" alt="Abdelrahman Dwedar's Dev Card"/></a>
+<br>
 <a rel="https://github.com/AbdelrhmanDwedar/github-readme-stats" target="_blank" align="top">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrahmanDwedar&langs_count=5&theme=react)</a><br>
 <img src="https://img.shields.io/github/followers/AbdelrahmanDwedar?style=flat&logo=github" alt="Follows" width="175" align="top"> 
 <img src="https://komarev.com/ghpvc/?username=AbdelrahmanDwedar&style=flat&logo=github" alt="Views" width="175">
