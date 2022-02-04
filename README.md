@@ -18,8 +18,10 @@
 [<img height="20" src="https://i.ibb.co/Q830MPL/pngegg-20.png" alt="C sharp" border="0">](https://docs.microsoft.com/en-us/dotnet/csharp/) C#<br>
 [<img height="20" src="https://i.ibb.co/Wc4hP1S/pngegg-22.png" alt="Ruby" border="0">](https://www.ruby-lang.org/en/) Ruby<br>
 [<img height="15" src="https://i.ibb.co/X26HfmN/pngegg-13.png" alt="PHP" border="0">](https://www.php.net/) PHP
-#### Other:-
+#### Markup Languages:-
 [<img height="20" src="https://i.ibb.co/tcBgYx3/pngegg-14.png" alt="HTML" border="0">](https://html.com/) HTML<br>
+[<img height="20" src="https://user-images.githubusercontent.com/67812625/152588585-a49875fd-0f4a-4def-83b7-81944766600a.png" alt="CSS" border="0">](https://www.markdownguide.org/) Markdown
+#### Styling Languages:-
 [<img height="20" src="https://i.ibb.co/pP5wFfC/pngegg-17.png" alt="CSS" border="0">](url) CSS<br>
 <hr>
 
@@ -51,3 +53,5 @@
 * [YouTube <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="20" alt="YouTube">](https://www.youtube.com/channel/UCDb4dNtGD3eI9gtPt93ikKQ)
 * [Discord Server <img src="https://user-images.githubusercontent.com/67812625/137221910-8e849d6d-6f0b-4404-b5e4-797291924611.png" width="20" alt="Discord">](https://discord.gg/8FDyqPU)
 * [Twitch <img src="https://www.freepnglogos.com/uploads/twitch-logo-vector-png-2.png" width="20" alt="twitch logo vector png" width="20" alt="Twitch">](https://www.twitch.tv/7350_gaming)
+
+![image]()
