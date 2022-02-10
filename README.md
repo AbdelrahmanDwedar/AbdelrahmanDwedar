@@ -6,6 +6,22 @@
 * <b>Software</b> developer.
 * Currentlly highschool student.
 * Hopes to be a senior software engneer.
+```cpp
+{
+  name: "Abdelrahman",
+  age: 16,
+  country: "Egypt"
+  available_languages: [
+    "C",
+    "C++",
+    "Python",
+    "JavaScript",
+    "Ruby",
+    "HTML",
+    "CSS"
+  ]
+}
+```
 <hr>
 
 ## <img src="https://user-images.githubusercontent.com/67812625/137175204-80bbeb5c-b861-4328-a801-a759791f5aa1.png" width="55" alt="Languages"> My Languages <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="350" align="right">
