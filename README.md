@@ -83,7 +83,7 @@
   <a href="https://www.youtube.com/channel/UCDb4dNtGD3eI9gtPt93ikKQ" style="text-decoration: none;">    
     <img alt="YouTube" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="35" align="center">
   </a>
-  <a href="https://www.twitch.tv/7350_gaming" style="text-decoration: none;">
+  <a href="https://www.twitch.tv/7350_gaming" class="social-media">
     <img alt="twitch" src="https://www.freepnglogos.com/uploads/twitch-logo-vector-png-2.png" width="35" align="center">
   </a>
 </div>
