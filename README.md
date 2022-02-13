@@ -15,8 +15,11 @@
   available_languages: [
     "C",
     "C++",
+    "C#",
     "Python",
     "JavaScript",
+    "TypeScript",
+    "PHP",
     "Ruby",
     "HTML",
     "CSS"
