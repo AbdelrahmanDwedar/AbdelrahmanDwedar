@@ -1,0 +1,11 @@
+div.center {
+  item-align: center;
+}
+
+.social-media {
+  text-decoration: none;
+}
+
+.social-media:hover {
+  text-decoration: none;
+}
