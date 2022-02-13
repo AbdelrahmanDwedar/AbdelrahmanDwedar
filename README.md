@@ -78,7 +78,7 @@
     <img alt="Instagram" src="/assets/images/instagram-logo.png" width="40" align="center">
   </a>
   <a href="https://discord.gg/8FDyqPU" style="text-decoration: none;">
-    <img alt="Discord" src="/assets/images/discord-logo.png" width="30" align="center">
+    <img alt="Discord" src="/assets/images/discord-logo.png" width="35" align="center">
   </a>
   <a href="https://www.youtube.com/channel/UCDb4dNtGD3eI9gtPt93ikKQ" style="text-decoration: none;"> 
     <img alt="YouTube" src="assets/images/YouTube-icon.png" width="35" align="center">
