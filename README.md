@@ -72,16 +72,16 @@
     <img alt="Hashnode" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" width="35" align="center">
   </a>
   <a href="https://twitter.com/3_Dwedar" style="text-decoration: none;">
-    <img alt="Twitter" src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png" width="35" align="center">
+    <img alt="Twitter" src="/assets/images/twitter-logo.png" width="35" align="center">
   </a>
   <a href="https://www.instagram.com/abdelrhman._.dwedar/" style="text-decoration: none;">
-    <img alt="Instagram" src="https://www.transparentpng.com/thumb/logo-instagram/JFyofc-logo-instagram-background-png.png" width="40" align="center">
+    <img alt="Instagram" src="/assets/images/instagram-logo.png" width="40" align="center">
   </a>
   <a href="https://discord.gg/8FDyqPU" style="text-decoration: none;">
-    <img alt="Discord" src="https://user-images.githubusercontent.com/67812625/137221910-8e849d6d-6f0b-4404-b5e4-797291924611.png" width="30" align="center">
+    <img alt="Discord" src="/assets/images/discord-logo.png" width="30" align="center">
   </a>
-  <a href="https://www.youtube.com/channel/UCDb4dNtGD3eI9gtPt93ikKQ" style="text-decoration: none;">    
-    <img alt="YouTube" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="35" align="center">
+  <a href="https://www.youtube.com/channel/UCDb4dNtGD3eI9gtPt93ikKQ" style="text-decoration: none;"> 
+    <img alt="YouTube" src="assets/images/YouTube-icon.png" width="35" align="center">
   </a>
   <a href="https://www.twitch.tv/7350_gaming">
     <img alt="twitch" src="https://www.freepnglogos.com/uploads/twitch-logo-vector-png-2.png" width="35" align="center">
