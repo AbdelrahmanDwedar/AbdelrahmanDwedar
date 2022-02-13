@@ -65,10 +65,10 @@
 
 ## <img src="https://i.ibb.co/wpcck6r/pngegg-5.png" width="30" alt="Contacts"> My Contacts
 <div align="center">
-  <a href="https://dev.to/abdelrahman_dwedar" style="text-decoration: none;">
+  <a href="https://dev.to/abdelrahman_dwedar"  class="social-media">
     <img alt="DEV" src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" width="35" align="center">
   </a>
-  <a href="https://hashnode.com/@Adobe" style="text-decoration: none;">
+  <a href="https://hashnode.com/@Adobe"  class="social-media">
     <img alt="Hashnode" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" width="35" align="center">
   </a>
   <a href="https://twitter.com/3_Dwedar" style="text-decoration: none;">
@@ -83,7 +83,7 @@
   <a href="https://www.youtube.com/channel/UCDb4dNtGD3eI9gtPt93ikKQ" style="text-decoration: none;">    
     <img alt="YouTube" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="35" align="center">
   </a>
-  <a href="https://www.twitch.tv/7350_gaming" class="social-media">
+  <a href="https://www.twitch.tv/7350_gaming">
     <img alt="twitch" src="https://www.freepnglogos.com/uploads/twitch-logo-vector-png-2.png" width="35" align="center">
   </a>
 </div>
