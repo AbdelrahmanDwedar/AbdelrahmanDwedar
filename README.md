@@ -31,32 +31,43 @@
 ## <img src="https://user-images.githubusercontent.com/67812625/137175204-80bbeb5c-b861-4328-a801-a759791f5aa1.png" width="55" alt="Languages"> My Languages
 
 #### Programming Languages:- 
-[<img height="20" src="https://i.ibb.co/Y8NfQhX/pngegg-18.png" alt="Python" border="0">](https://www.python.org/) Python<br>
-[<img height="20" src="https://i.ibb.co/cvkNf5s/pngegg-15.png" alt="JavaScript" border="0">](https://www.javascript.com/) JavaScript<br>
-[<img height="20" src="https://i.ibb.co/D93BmHh/pngegg-25.png" alt="TypeScript" border="0">](https://www.typescriptlang.org/) TypeScript<br>
-[<img height="20" src="https://i.ibb.co/X3fY47Y/pngegg-19.png" alt="CPP" border="0">](https://www.cplusplus.com/) C++<br>
-[<img height="20" src="https://i.ibb.co/Q830MPL/pngegg-20.png" alt="C" border="0">](url) C<br>
-[<img height="20" src="https://i.ibb.co/Q830MPL/pngegg-20.png" alt="C sharp" border="0">](https://docs.microsoft.com/en-us/dotnet/csharp/) C#<br>
-[<img height="20" src="https://i.ibb.co/Wc4hP1S/pngegg-22.png" alt="Ruby" border="0">](https://www.ruby-lang.org/en/) Ruby<br>
-[<img height="15" src="https://i.ibb.co/X26HfmN/pngegg-13.png" alt="PHP" border="0">](https://www.php.net/) PHP
+
+[![Python](https://img.shields.io/badge/Python-f7e018?style=for-the-badge&logo=python&logoColor=0000ff)](https://www.python.org/)
+&emsp;
+[![JavaScript](https://img.shields.io/badge/Javascript-f7e018?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)
+&emsp;
+[![TypeScript](https://img.shields.io/badge/Typescript-2D79C7?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+&emsp;
+[![C++](https://img.shields.io/badge/C%2B%2B-0000ff?style=for-the-badge&logo=c%2B%2B&logoColor=blue)](https://www.cplusplus.com/)
+&emsp;
+[![C](https://img.shields.io/badge/C-0000ff?style=for-the-badge&logo=c&logoColor=blue)](url)
+&emsp;
+[![C#](https://img.shields.io/badge/C%23-777BB4?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+&emsp;
+[![Ruby](https://img.shields.io/badge/Ruby-B01401?style=for-the-badge&logo=ruby&logoColor=000000)](https://www.ruby-lang.org/en/)
+&emsp;
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+&emsp;
+[![Rust](https://img.shields.io/badge/Rust-696b70?style=for-the-badge&logo=rust&logoColor=000000)]()
+
 #### Markup Languages:-
-[<img height="20" src="https://i.ibb.co/tcBgYx3/pngegg-14.png" alt="HTML" border="0">](https://html.com/) HTML<br>
-[<img height="20" src="https://user-images.githubusercontent.com/67812625/152588585-a49875fd-0f4a-4def-83b7-81944766600a.png" alt="CSS" border="0">](https://www.markdownguide.org/) Markdown
+
+[![HTML](https://img.shields.io/badge/Html5-E54C21?style=for-the-badge&logo=html5&logoColor=white)](https://html.com/)
+&emsp;
+[![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
+
 #### Styling Languages:-
-[<img height="20" src="https://i.ibb.co/pP5wFfC/pngegg-17.png" alt="CSS" border="0">](url) CSS<br>
-<hr>
 
-<!--
+[![CSS](https://img.shields.io/badge/Css3-214CE5?style=for-the-badge&logo=css3&logoColor=white)](url)
+&emsp;
+[![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com)
 
-## Frameworks & Libararies
-#### Front-End
-- React
-- SASS (SCSS)
+<!-- 
+#### Frameworks & Libraries:-
 
-#### Back-End
-
-<br> -->
-
+[]
+ -->
+ 
 ## Status
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdelrahmanDwedar&show_icons=true&theme=tokyonight)](https://github.com/AbdelrhmanDwedar)
 <a href="https://app.daily.dev/3_Dwedar"><img align="right" width="245" src="https://api.daily.dev/devcards/9d34a8e386d24adf8d75ad4366eb254b.png?r=pra" width="300" alt="Abdelrahman Dwedar's Dev Card"/></a>
