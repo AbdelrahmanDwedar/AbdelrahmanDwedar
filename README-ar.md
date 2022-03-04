@@ -87,3 +87,9 @@
   <a href="https://www.youtube.com/channel/UCDb4dNtGD3eI9gtPt93ikKQ" style="text-decoration: none;"><img alt="YouTube" src="assets/images/YouTube-icon.png" width="35" align="center"></a>
   <a href="https://www.twitch.tv/7350_gaming"><img alt="twitch" src="https://www.freepnglogos.com/uploads/twitch-logo-vector-png-2.png" width="35" align="center"></a>
 </div>
+
+---
+
+<div align="center">
+  <a alt="English readme" href="https://github.com/AbdelrahmanDwedar/AbdelrahmanDwedar">الإنجايزية 🇬🇧</a> - <a alt="Arabic readme" href="https://github.com/AbdelrahmanDwedar/AbdelrahmanDwedar/blob/README/README-ar.md">العربية 🇵🇸</a>
+</div>
