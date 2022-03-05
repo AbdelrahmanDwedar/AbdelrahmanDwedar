@@ -104,7 +104,6 @@
 [![Wakatime status](https://wakatime.com/share/@92b916ee-362a-4ef1-82f5-0f518b8caf25/fe912e68-8957-420e-b8fd-e80379741bc1.png)](https://wakatime.com/)
 
 </details>
-<br>
 
 ---
 
