@@ -77,26 +77,46 @@
 &emsp;
 ![sublime text](https://img.shields.io/badge/Sublime_text-4B4B4B?style=for-the-badge&logo=sublime-text&logoColor=FF9800)
 
----
+#### مدوناتي:-
+[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/abdelrahman_dwedar)
+&emsp;
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@Abedo)
 
+---
  
 ## إحصائيات
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdelrahmanDwedar&show_icons=true&theme=tokyonight)](https://github.com/AbdelrhmanDwedar)
-<a href="https://app.daily.dev/3_Dwedar"><img align="right" width="245" src="https://api.daily.dev/devcards/9d34a8e386d24adf8d75ad4366eb254b.png?r=pra" width="300" alt="Abdelrahman Dwedar's Dev Card"/></a>
-<br>
-<a rel="https://github.com/AbdelrahmanDwedar/github-readme-stats" target="_blank" align="top">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrahmanDwedar&langs_count=5&theme=react)</a>
+<details>
+<summary>إحصائيات GitHub</summary>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdelrahmanDwedar&show_icons=true&theme=tokyonight)](https://github.com/AbdelrhmanDwedar)  
+
+<a rel="https://github.com/AbdelrahmanDwedar/github-readme-stats" target="_blank">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrahmanDwedar&langs_count=5&theme=react)</a>
+
+</details>
+<details>
+<summary>كرت المبرمج (<a href="https://app.daily.dev/">Daily.dev</a>)</summary>
+
+[<img src="https://api.daily.dev/devcards/9d34a8e386d24adf8d75ad4366eb254b.png?r=pra" width="300" alt="Abdelrahman Dwedar's Dev Card"/>](https://app.daily.dev/3_Dwedar)
+</details>
+<details>
+<summary>إحصائيات العمل (powerred by <a href="https://wakatime.com/">WakaTime</a>)</summary>
+
+[![Wakatime status](https://wakatime.com/share/@92b916ee-362a-4ef1-82f5-0f518b8caf25/fe912e68-8957-420e-b8fd-e80379741bc1.png)](https://wakatime.com/)
+
+</details>
 
 ---
 
 ## <img src="https://i.ibb.co/wpcck6r/pngegg-5.png" width="30" alt="Contacts"> للتواصل معي
 <div align="center">
-  <a href="https://dev.to/abdelrahman_dwedar"  class="social-media"><img alt="DEV" src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" width="35" align="center"></a>
-  <a href="https://hashnode.com/@Adobe"  class="social-media"><img alt="Hashnode" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" width="35" align="center"></a>
-  <a href="https://twitter.com/3_Dwedar" style="text-decoration: none;"><img alt="Twitter" src="/assets/images/twitter-logo.png" width="35" align="center"></a>
-  <a href="https://www.instagram.com/abdelrhman._.dwedar/" style="text-decoration: none;"><img alt="Instagram" src="/assets/images/instagram-logo.png" width="40" align="center"></a>
-  <a href="https://discord.gg/8FDyqPU" style="text-decoration: none;"><img alt="Discord" src="/assets/images/discord-logo.png" width="35" align="center"></a>
-  <a href="https://www.youtube.com/channel/UCDb4dNtGD3eI9gtPt93ikKQ" style="text-decoration: none;"><img alt="YouTube" src="assets/images/YouTube-icon.png" width="35" align="center"></a>
-  <a href="https://www.twitch.tv/7350_gaming"><img alt="twitch" src="https://www.freepnglogos.com/uploads/twitch-logo-vector-png-2.png" width="35" align="center"></a>
+  <a href="https://dev.to/abdelrahman_dwedar" style="border-reduce: 50%"><img alt="DEV" src="./assets/images/Devdotto-logo.png" width="35"></a>
+  <a href="https://hashnode.com/@Adobe"><img alt="Hashnode" src="./assets/images/Hashnode-logo.png" width="35"></a>
+  <a href="https://twitter.com/3_Dwedar"><img alt="Twitter" src="./assets/images/Twitter-logo.png" width="40"></a>
+  <a href="https://www.instagram.com/abdelrhman._.dwedar/"><img alt="Instagram" src="./assets/images/Instagram-logo.png" width="35"></a>
+  <a href="https://discord.gg/8FDyqPU"><img alt="Discord" src="./assets/images/Discord-logo.png" width="40"></a>
+  <a href="https://www.youtube.com/channel/UCDb4dNtGD3eI9gtPt93ikKQ"><img alt="YouTube" src="./assets/images/YouTube-logo.png" width="40"></a>
+  <a href="https://www.twitch.tv/7350_gaming"><img alt="twitch" src="./assets/images/Twitch-logo.png" width="25"></a>
+  <p><b>يمكنك كذالك الوصول لي عن طريق الـE-mail: <a href="mailto:abdelrahman.dwedar.7350@gmail.com"><address>abdelrahman.dwedar.7350@gmail.com</address></a></b><p>
 </div>
 
 ---
