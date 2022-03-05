@@ -32,15 +32,15 @@
 
 #### Programming Languages:- 
 
-[![Python](https://img.shields.io/badge/Python-f7e018?style=for-the-badge&logo=python&logoColor=0000ff)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=yellow)](https://www.python.org/)
 &emsp;
 [![JavaScript](https://img.shields.io/badge/Javascript-f7e018?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)
 &emsp;
 [![TypeScript](https://img.shields.io/badge/Typescript-2D79C7?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 &emsp;
-[![C++](https://img.shields.io/badge/C%2B%2B-0000ff?style=for-the-badge&logo=c%2B%2B&logoColor=blue)](https://www.cplusplus.com/)
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://www.cplusplus.com/)
 &emsp;
-[![C](https://img.shields.io/badge/C-0000ff?style=for-the-badge&logo=c&logoColor=blue)](url)
+[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](url)
 &emsp;
 [![C#](https://img.shields.io/badge/C%23-777BB4?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 &emsp;
@@ -48,7 +48,7 @@
 &emsp;
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 &emsp;
-[![Rust](https://img.shields.io/badge/Rust-696b70?style=for-the-badge&logo=rust&logoColor=000000)]()
+[![Rust](https://img.shields.io/badge/Rust-696b70?style=for-the-badge&logo=rust&logoColor=000000)](https://www.rust-lang.org/)
 
 #### Markup Languages:-
 
@@ -62,11 +62,21 @@
 &emsp;
 [![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com)
 
-<!-- 
 #### Frameworks & Libraries:-
 
-[]
- -->
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+
+#### Technologies & Tools:-
+
+[![Visual Stodio Code](https://img.shields.io/badge/Visual_Studio_Code-3d3d3d?style=for-the-badge&logo=visual%20studio%20code&logoColor=0078D4)](https://code.visualstudio.com/)
+&emsp;
+[![Git](https://img.shields.io/badge/Git-f34f29?style=for-the-badge&logo=Git&logoColor=white)](https://git-scm.com/)
+&emsp;
+[![Figma](https://img.shields.io/badge/Figma-3d3d3d?style=for-the-badge&logo=Figma&logoColor=e04a34)](https://www.figma.com/)
+&emsp;
+[![sublime text](https://img.shields.io/badge/Sublime_text-4B4B4B?style=for-the-badge&logo=sublime-text&logoColor=FF9800)](https://www.sublimetext.com/3)
+
+---
  
 ## Status
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdelrahmanDwedar&show_icons=true&theme=tokyonight)](https://github.com/AbdelrhmanDwedar)
