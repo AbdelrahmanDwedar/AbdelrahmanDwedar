@@ -1,12 +1,13 @@
 <link href="/assets/styles.css" rel="stylesheet"></link>
 <h1 align="center"><img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" alt="hey" width="40"> Hey there,<br> I'm Abdelrahman Dwedar</h1> 
-<hr>
+
+---
 
 ## <img src="https://img.icons8.com/fluency-systems-filled/48/000000/guest-male.png" width="30" alt="About me"/> About Me <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="290" align="right">
-* <b>Self-tought</b> developer.
-* <b>Software</b> developer.
-* Currentlly highschool student.
-* Hopes to be a senior software engneer.
+* **Self-tought** developer.
+* **Software** developer.
+* Currentlly **highschool student**.
+* Hopes to be a **senior software engneer**.
 ```cpp
 {
   name: "Abdelrahman",
@@ -26,9 +27,10 @@
   ]
 }
 ```
-<hr>
 
-## <img src="https://user-images.githubusercontent.com/67812625/137175204-80bbeb5c-b861-4328-a801-a759791f5aa1.png" width="55" alt="Languages"> My Languages
+---
+
+## <img src="https://user-images.githubusercontent.com/67812625/137175204-80bbeb5c-b861-4328-a801-a759791f5aa1.png" width="55" alt="Languages"> My Experience
 
 #### Programming Languages:- 
 
@@ -42,7 +44,7 @@
 &emsp;
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](url)
 &emsp;
-[![C#](https://img.shields.io/badge/C%23-777BB4?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![C#](https://img.shields.io/badge/C%23-682876?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 &emsp;
 [![Ruby](https://img.shields.io/badge/Ruby-B01401?style=for-the-badge&logo=ruby&logoColor=000000)](https://www.ruby-lang.org/en/)
 &emsp;
