@@ -28,7 +28,8 @@
   ]
 }
 ```
-<hr>
+
+---
 
 ## <img src="https://user-images.githubusercontent.com/67812625/137175204-80bbeb5c-b861-4328-a801-a759791f5aa1.png" width="55" alt="Languages"> لغاتي
 
