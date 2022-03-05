@@ -8,6 +8,8 @@
 * **Software** developer.
 * Currentlly **highschool student**.
 * Hopes to be a **senior software engneer**.
+* Currentlly working as **Freelancer**  
+
 ```cpp
 {
   name: "Abdelrahman",
