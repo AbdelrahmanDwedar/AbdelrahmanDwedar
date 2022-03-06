@@ -124,5 +124,6 @@
 
 <div align="center">
   <a alt="English readme" href="README.md">الإنجايزية 🇬🇧</a> 
-  - <a alt="Arabic readme" href="">العربية 🇵🇸</a>
+  - <a alt="German readme" href="README-de.md">الألمانية 🇩🇪</a>
+  - <a alt="Arabic readme" href="README-ar.md">العربية 🇵🇸</a>
 </div>

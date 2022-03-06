@@ -124,5 +124,7 @@
 ---
 
 <div align="center">
-  <a alt="English readme" href="https://github.com/AbdelrahmanDwedar/AbdelrahmanDwedar">English 🇬🇧</a> - <a alt="Arabic readme" href="https://github.com/AbdelrahmanDwedar/AbdelrahmanDwedar/blob/README/README-ar.md">Arabic 🇵🇸</a>
+  <a alt="Arabic readme" href="README-ar.md">Arabic 🇵🇸</a> 
+  - <a alt="English readme" href="/">English 🇬🇧</a> 
+  - <a alt="German readme" href="README-de.md">German 🇩🇪</a>
 </div>
