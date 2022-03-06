@@ -123,5 +123,6 @@
 ---
 
 <div align="center">
-  <a alt="English readme" href="https://github.com/AbdelrahmanDwedar/AbdelrahmanDwedar">الإنجايزية 🇬🇧</a> - <a alt="Arabic readme" href="https://github.com/AbdelrahmanDwedar/AbdelrahmanDwedar/blob/README/README-ar.md">العربية 🇵🇸</a>
+  <a alt="English readme" href="README.md">الإنجايزية 🇬🇧</a> 
+  - <a alt="Arabic readme" href="">العربية 🇵🇸</a>
 </div>
