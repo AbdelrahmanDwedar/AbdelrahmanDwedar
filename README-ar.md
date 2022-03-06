@@ -34,23 +34,24 @@
 ## <img src="https://user-images.githubusercontent.com/67812625/137175204-80bbeb5c-b861-4328-a801-a759791f5aa1.png" width="55" alt="Languages"> لغاتي
 
 #### لغات برمجة:-  
-[![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=yellow)](https://www.python.org/)
+
+[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](url)
 &emsp;
-[![JavaScript](https://img.shields.io/badge/Javascript-f7e018?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)
-&emsp;
-[![TypeScript](https://img.shields.io/badge/Typescript-2D79C7?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![C#](https://img.shields.io/badge/C%23-682876?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 &emsp;
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://www.cplusplus.com/)
 &emsp;
-[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](url)
-&emsp;
-[![C#](https://img.shields.io/badge/C%23-777BB4?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-&emsp;
-[![Ruby](https://img.shields.io/badge/Ruby-B01401?style=for-the-badge&logo=ruby&logoColor=000000)](https://www.ruby-lang.org/en/)
+[![JavaScript](https://img.shields.io/badge/Javascript-f7e018?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)
 &emsp;
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 &emsp;
+[![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=yellow)](https://www.python.org/)
+&emsp;
+[![Ruby](https://img.shields.io/badge/Ruby-B01401?style=for-the-badge&logo=ruby&logoColor=000000)](https://www.ruby-lang.org/en/)
+&emsp;
 [![Rust](https://img.shields.io/badge/Rust-696b70?style=for-the-badge&logo=rust&logoColor=000000)](https://www.rust-lang.org/)
+&emsp;
+[![TypeScript](https://img.shields.io/badge/Typescript-2D79C7?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
 #### لغات ترميز:-
 
@@ -69,13 +70,13 @@
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 
 ### أدوات أخرى:-
-[![Visual Stodio Code](https://img.shields.io/badge/Visual_Studio_Code-3d3d3d?style=for-the-badge&logo=visual%20studio%20code&logoColor=0078D4)](https://code.visualstudio.com/)
+[![Figma](https://img.shields.io/badge/Figma-3d3d3d?style=for-the-badge&logo=Figma&logoColor=e04a34)](https://www.figma.com/)
 &emsp;
 [![Git](https://img.shields.io/badge/Git-f34f29?style=for-the-badge&logo=Git&logoColor=white)](https://git-scm.com/)
 &emsp;
-[![Figma](https://img.shields.io/badge/Figma-3d3d3d?style=for-the-badge&logo=Figma&logoColor=e04a34)](https://www.figma.com/)
+[![sublime text](https://img.shields.io/badge/Sublime_text-4B4B4B?style=for-the-badge&logo=sublime-text&logoColor=FF9800)](https://www.sublimetext.com/3)
 &emsp;
-![sublime text](https://img.shields.io/badge/Sublime_text-4B4B4B?style=for-the-badge&logo=sublime-text&logoColor=FF9800)
+[![Visual Stodio Code](https://img.shields.io/badge/Visual_Studio_Code-3d3d3d?style=for-the-badge&logo=visual%20studio%20code&logoColor=0078D4)](https://code.visualstudio.com/)
 
 #### مدوناتي:-
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/abdelrahman_dwedar)
@@ -99,7 +100,7 @@
 [<img src="https://api.daily.dev/devcards/9d34a8e386d24adf8d75ad4366eb254b.png?r=pra" width="300" alt="Abdelrahman Dwedar's Dev Card"/>](https://app.daily.dev/3_Dwedar)
 </details>
 <details>
-<summary>إحصائيات العمل (powerred by <a href="https://wakatime.com/">WakaTime</a>)</summary>
+<summary>إحصائيات العمل (مدعوم بواسطة <a href="https://wakatime.com/">WakaTime</a>)</summary>
 
 [![Wakatime status](https://wakatime.com/share/@92b916ee-362a-4ef1-82f5-0f518b8caf25/fe912e68-8957-420e-b8fd-e80379741bc1.png)](https://wakatime.com/)
 
