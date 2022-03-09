@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" alt="hey" width="40"> أهلا بكم،<br> أنا عبداارحمن دويدار</h1> 
+<h1 align="center"><img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" alt="hey" width="40"> أهلا بكم،<br> أنا عبدالرحمن دويدار</h1> 
 
 ---
 
@@ -129,7 +129,7 @@
   <a href="https://discord.gg/8FDyqPU"><img alt="Discord" src="./assets/images/Discord-logo.png" width="40"></a>
   <a href="https://www.youtube.com/channel/UCDb4dNtGD3eI9gtPt93ikKQ"><img alt="YouTube" src="./assets/images/YouTube-logo.png" width="40"></a>
   <a href="https://www.twitch.tv/7350_gaming"><img alt="twitch" src="./assets/images/Twitch-logo.png" width="25"></a>
-  <p><b>يمكنك كذالك الوصول لي عن طريق الـE-mail: <a href="mailto:abdelrahman.dwedar.7350@gmail.com"><address>abdelrahman.dwedar.7350@gmail.com</address></a></b><p>
+  <p><b>يمكنك كذالك الوصول لي عن طريق البريد الإلكتروني: <a href="mailto:abdelrahman.dwedar.7350@gmail.com"><address>abdelrahman.dwedar.7350@gmail.com</address></a></b><p>
 </div>
 
 ---
