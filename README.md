@@ -68,17 +68,29 @@
 #### Frameworks & Libraries:-
 
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+&emsp;
+[![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
+
 
 #### Technologies & Tools:-
 
+[![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/AbdelrahmanDwedar)
+&emsp;
+[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codewars.com/users/AbdelrahmanDwedar)
+&emsp;
 [![Figma](https://img.shields.io/badge/Figma-3d3d3d?style=for-the-badge&logo=Figma&logoColor=e04a34)](https://www.figma.com/)
 &emsp;
 [![Git](https://img.shields.io/badge/Git-f34f29?style=for-the-badge&logo=Git&logoColor=white)](https://git-scm.com/)
 &emsp;
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/AbdelrahmanDwedar/)
+&emsp;
+[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/)
+&emsp;
+[![Repl.it](https://img.shields.io/badge/Repl.it-%230D101E.svg?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/)
+&emsp;
 [![sublime text](https://img.shields.io/badge/Sublime_text-4B4B4B?style=for-the-badge&logo=sublime-text&logoColor=FF9800)](https://www.sublimetext.com/3)
 &emsp;
 [![Visual Stodio Code](https://img.shields.io/badge/Visual_Studio_Code-3d3d3d?style=for-the-badge&logo=visual%20studio%20code&logoColor=0078D4)](https://code.visualstudio.com/)
-
 
 #### My Blogs:-
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/abdelrahman_dwedar)
