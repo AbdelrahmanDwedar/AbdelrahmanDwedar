@@ -119,6 +119,8 @@
 
 [![Wakatime status](https://wakatime.com/share/@92b916ee-362a-4ef1-82f5-0f518b8caf25/fe912e68-8957-420e-b8fd-e80379741bc1.png)](https://wakatime.com/)
 
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AbdelrahmanDwedar&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&langs_count=7)](https://wakatime.com/@AbdelrahmanDwedar)
+
 </details>
 
 ---
