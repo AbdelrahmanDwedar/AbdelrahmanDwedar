@@ -89,7 +89,7 @@
 &emsp;
 [![sublime text](https://img.shields.io/badge/Sublime_text-4B4B4B?style=for-the-badge&logo=sublime-text&logoColor=FF9800)](https://www.sublimetext.com/3)
 &emsp;
-[![Visual Stodio Code](https://img.shields.io/badge/Visual_Studio_Code-3d3d3d?style=for-the-badge&logo=visual%20studio%20code&logoColor=0078D4)](https://code.visualstudio.com/)
+[![Visual Stodio Code](https://img.shields.io/badge/Visual_Studio_Code-3d3d3d?style=for-the-badge&logo=visual%20studio%20code&logoColor=0078D4)](https://code.visualstudio.com/) c
 
 #### Meine Blogs:-
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/abdelrahman_dwedar)
@@ -101,9 +101,11 @@
 <details>
 <summary>GitHub Status</summary>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdelrahmanDwedar&show_icons=true&theme=tokyonight)](https://github.com/AbdelrhmanDwedar)  
+<a href="http://www.github.com/AbdelrahmanDwedar"><img src="https://github-readme-stats.vercel.app/api?username=AbdelrahmanDwedar&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="AbdelrahmanDwedar's GitHub stats" /></a>
 
-<a rel="https://github.com/AbdelrahmanDwedar/github-readme-stats" target="_blank">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrahmanDwedar&langs_count=5&theme=react)</a>
+<a href="http://www.github.com/AbdelrahmanDwedar"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdelrahmanDwedar&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/AbdelrahmanDwedar" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrahmanDwedar&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 </details>
 <details>
@@ -136,6 +138,7 @@
 
 <div align="center">
   <a alt="Arabic readme" href="README-ar.md">Arabisch 🇵🇸</a> 
+  - <a alt="German readme" href="README-de.md">Deutsch 🇩🇪</a> 
   - <a alt="English readme" href="README.md">Englisch 🇬🇧</a> 
-  - <a href="README-de.md">Deutsch 🇩🇪</a> 
+  - <a alt="French readme" href="README-fr.md">Französisch 🇫🇷</a>
 </div>
