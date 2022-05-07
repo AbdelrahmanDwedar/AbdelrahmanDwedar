@@ -32,7 +32,7 @@
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/67812625/137175204-80bbeb5c-b861-4328-a801-a759791f5aa1.png" width="55" alt="Languages"> My Experiences
+## <img src="https://user-images.githubusercontent.com/67812625/137175204-80bbeb5c-b861-4328-a801-a759791f5aa1.png" width="55" alt="Languages"> My Tools
 
 #### Programming Languages:- 
 
@@ -99,9 +99,9 @@
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@Abedo)
 ---
  
-## Status
+## Stats
 <details>
-<summary>GitHub Status</summary>
+<summary>GitHub Stats</summary>
 
 <a href="http://www.github.com/AbdelrahmanDwedar"><img src="https://github-readme-stats.vercel.app/api?username=AbdelrahmanDwedar&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="AbdelrahmanDwedar's GitHub stats" /></a>
 
@@ -116,9 +116,9 @@
 [<img src="https://api.daily.dev/devcards/9d34a8e386d24adf8d75ad4366eb254b.png?r=pra" width="300" alt="Abdelrahman Dwedar's Dev Card"/>](https://app.daily.dev/3_Dwedar)
 </details>
 <details>
-<summary>Working Status (powered by <a href="https://wakatime.com/">WakaTime</a>)</summary>
+<summary>Working Stats (powered by <a href="https://wakatime.com/">WakaTime</a>)</summary>
 
-[![Wakatime status](https://wakatime.com/share/@92b916ee-362a-4ef1-82f5-0f518b8caf25/fe912e68-8957-420e-b8fd-e80379741bc1.png)](https://wakatime.com/)
+[![Wakatime stats](https://wakatime.com/share/@92b916ee-362a-4ef1-82f5-0f518b8caf25/fe912e68-8957-420e-b8fd-e80379741bc1.png)](https://wakatime.com/)
 
 [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AbdelrahmanDwedar&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&langs_count=7)](https://wakatime.com/@AbdelrahmanDwedar)
 
