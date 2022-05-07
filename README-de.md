@@ -3,11 +3,11 @@
 ---
 
 ## <img src="https://img.icons8.com/fluency-systems-filled/48/000000/guest-male.png" width="30" alt="About me"/> Über Mich<img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="290" align="right">
-* **Autodidaktischer** Programmierer.
+* **Selbsternannter** Programmierer.
 * **Software**entwickler.
-* Derzeit **Gymnasiast**.
+* Aktuell **Highschool-Schüler**.
 * Möchte **Senior Software Engneer** werden.
-* Derzeit **freiberuflich** tätig
+* Momentan als **Freelancer** arbeiten.
 
 ```cpp
 {
@@ -31,7 +31,7 @@
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/67812625/137175204-80bbeb5c-b861-4328-a801-a759791f5aa1.png" width="55" alt="Languages"> Meine Erfahrung
+## <img src="https://user-images.githubusercontent.com/67812625/137175204-80bbeb5c-b861-4328-a801-a759791f5aa1.png" width="55" alt="Languages"> Meine Tools
 
 #### Programmiersprachen:- 
 
@@ -53,13 +53,13 @@
 &emsp;
 [![TypeScript](https://img.shields.io/badge/Typescript-2D79C7?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
-#### Auszeichnungssprachen:-
+#### Markup-Sprachen:-
 
 [![HTML](https://img.shields.io/badge/Html5-E54C21?style=for-the-badge&logo=html5&logoColor=white)](https://html.com/)
 &emsp;
 [![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
 
-#### Stilsprachen:-  <!-- Might be wrong -->
+#### Stylingsprachen:-
 
 [![CSS](https://img.shields.io/badge/Css3-214CE5?style=for-the-badge&logo=css3&logoColor=white)](url)
 &emsp;
@@ -73,7 +73,7 @@
 &emsp;
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 
-#### Technologien und Werkzeuge:-
+#### Frameworks und Bibliotheken:-
 
 [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/AbdelrahmanDwedar)
 &emsp;
@@ -99,9 +99,9 @@
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@Abedo)
 ---
  
-## Status
+## Statistik
 <details>
-<summary>GitHub Status</summary>
+<summary>GitHub Statistik</summary>
 <a href="http://www.github.com/AbdelrahmanDwedar"><img src="https://github-readme-stats.vercel.app/api?username=AbdelrahmanDwedar&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="AbdelrahmanDwedar's GitHub stats" /></a>
 
 <a href="http://www.github.com/AbdelrahmanDwedar"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdelrahmanDwedar&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
@@ -115,7 +115,7 @@
 [<img src="https://api.daily.dev/devcards/9d34a8e386d24adf8d75ad4366eb254b.png?r=pra" width="300" alt="Abdelrahman Dwedar's Dev Card"/>](https://app.daily.dev/3_Dwedar)
 </details>
 <details>
-<summary>Arbeits Status (bereitgestellt von <a href="https://wakatime.com/">WakaTime</a>)</summary>
+<summary>Arbeitsstatistiken (Bereitgestellt von <a href="https://wakatime.com/">WakaTime</a>)</summary>
 
 [![Wakatime status](https://wakatime.com/share/@92b916ee-362a-4ef1-82f5-0f518b8caf25/fe912e68-8957-420e-b8fd-e80379741bc1.png)](https://wakatime.com/)
 
