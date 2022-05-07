@@ -2,9 +2,9 @@
 
 ---
 
-## <img src="https://img.icons8.com/fluency-systems-filled/48/000000/guest-male.png" width="30" alt="About me"/> المزيد حولي <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="290" align="left">
+## <img src="https://img.icons8.com/fluency-systems-filled/48/000000/guest-male.png" width="30" alt="About me"/> نبذة عني <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="290" align="left">
 * مبرمج **متعلم ذاتيا**.
-* مطور برامج.
+* مطور برمجيات.
 * حاليا طالب ثانوي.
 * أتمنى أن اصبح مهندس برمجيات يوما ما.  
 * أعمل حاليا كعامل حر (Freelancer)
@@ -31,7 +31,7 @@
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/67812625/137175204-80bbeb5c-b861-4328-a801-a759791f5aa1.png" width="55" alt="Languages"> لغاتي
+## <img src="https://user-images.githubusercontent.com/67812625/137175204-80bbeb5c-b861-4328-a801-a759791f5aa1.png" width="55" alt="Languages"> أدواتي
 
 #### لغات برمجة:-  
 
@@ -65,7 +65,7 @@
 &emsp;
 [![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com)
 
-#### مكاتب وفريم وواركات:-
+#### الأطر عمل والمكتبات:-
 
 [![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
 &emsp;
@@ -111,7 +111,7 @@
 
 </details>
 <details>
-<summary>كرت المبرمج (<a href="https://app.daily.dev/">Daily.dev</a>)</summary>
+<summary>بطاقة المبرمج (<a href="https://app.daily.dev/">Daily.dev</a>)</summary>
 
 [<img src="https://api.daily.dev/devcards/9d34a8e386d24adf8d75ad4366eb254b.png?r=pra" width="300" alt="Abdelrahman Dwedar's Dev Card"/>](https://app.daily.dev/3_Dwedar)
 </details>
@@ -135,7 +135,7 @@
   <a href="https://discord.gg/8FDyqPU"><img alt="Discord" src="./assets/images/Discord-logo.png" width="40"></a>
   <a href="https://www.youtube.com/channel/UCDb4dNtGD3eI9gtPt93ikKQ"><img alt="YouTube" src="./assets/images/YouTube-logo.png" width="40"></a>
   <a href="https://www.twitch.tv/7350_gaming"><img alt="twitch" src="./assets/images/Twitch-logo.png" width="25"></a>
-  <p><b>يمكنك كذالك الوصول لي عن طريق البريد الإلكتروني: <a href="mailto:abdelrahman.dwedar.7350@gmail.com"><address>abdelrahman.dwedar.7350@gmail.com</address></a></b><p>
+  <p><b>يمكنك أيضا الوصول إلي عبر البريد الإلكتروني: <a href="mailto:abdelrahman.dwedar.7350@gmail.com"><address>abdelrahman.dwedar.7350@gmail.com</address></a></b><p>
 </div>
 
 ---
