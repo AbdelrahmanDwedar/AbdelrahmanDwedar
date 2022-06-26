@@ -42,6 +42,8 @@
 &emsp;
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://www.cplusplus.com/)
 &emsp;
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+&emsp;
 [![JavaScript](https://img.shields.io/badge/Javascript-f7e018?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)
 &emsp;
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
@@ -53,6 +55,7 @@
 [![Rust](https://img.shields.io/badge/Rust-696b70?style=for-the-badge&logo=rust&logoColor=000000)](https://www.rust-lang.org/)
 &emsp;
 [![TypeScript](https://img.shields.io/badge/Typescript-2D79C7?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+
 #### Markup Languages:-
 
 [![HTML](https://img.shields.io/badge/Html5-E54C21?style=for-the-badge&logo=html5&logoColor=white)](https://html.com/)

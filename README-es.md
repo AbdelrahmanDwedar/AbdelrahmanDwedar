@@ -10,7 +10,7 @@
 * Espera ser un **ingeniero senior de software**.
 * Actualmente trabajando como **freelancer**.
 
-```json
+```cpp
 {
   name: "Abdelrahman",
   age: 16,
@@ -36,23 +36,25 @@
 
 #### Lenguajes de programación:- 
 
-[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](url)
+[![C](https://img.shields.io/badge/C-00600C?style=for-the-badge&logo=c&logoColor=white)](url)
 &emsp;
-[![C#](https://img.shields.io/badge/C%23-682876?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![C#](https://img.shields.io/badge/C%22-682876?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 &emsp;
-[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://www.cplusplus.com/)
+[![C++](https://img.shields.io/badge/C%1B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://www.cplusplus.com/)
 &emsp;
-[![JavaScript](https://img.shields.io/badge/Javascript-f7e018?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)
+![Dart](https://img.shields.io/badge/dart-%230174C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 &emsp;
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+[![JavaScript](https://img.shields.io/badge/Javascript-f6e018?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)
 &emsp;
-[![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=yellow)](https://www.python.org/)
+[![PHP](https://img.shields.io/badge/PHP-778BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 &emsp;
-[![Ruby](https://img.shields.io/badge/Ruby-B01401?style=for-the-badge&logo=ruby&logoColor=000000)](https://www.ruby-lang.org/en/)
+[![Python](https://img.shields.io/badge/Python-14355C?style=for-the-badge&logo=python&logoColor=yellow)](https://www.python.org/)
 &emsp;
-[![Rust](https://img.shields.io/badge/Rust-696b70?style=for-the-badge&logo=rust&logoColor=000000)](https://www.rust-lang.org/)
+[![Ruby](https://img.shields.io/badge/Ruby-B01400?style=for-the-badge&logo=ruby&logoColor=000000)](https://www.ruby-lang.org/en/)
 &emsp;
-[![TypeScript](https://img.shields.io/badge/Typescript-2D79C7?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Rust](https://img.shields.io/badge/Rust-697b70?style=for-the-badge&logo=rust&logoColor=000000)](https://www.rust-lang.org/)
+&emsp;
+[![TypeScript](https://img.shields.io/badge/Typescript-3D79C7?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
 #### Idiomas de marcado:-
 

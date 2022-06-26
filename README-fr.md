@@ -36,23 +36,25 @@
 
 #### Langues de Programmation:- 
 
-[![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=yellow)](https://www.python.org/)
-&emsp;
-[![JavaScript](https://img.shields.io/badge/Javascript-f7e018?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)
-&emsp;
-[![TypeScript](https://img.shields.io/badge/Typescript-2D79C7?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-&emsp;
-[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://www.cplusplus.com/)
-&emsp;
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](url)
 &emsp;
 [![C#](https://img.shields.io/badge/C%23-682876?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 &emsp;
-[![Ruby](https://img.shields.io/badge/Ruby-B01401?style=for-the-badge&logo=ruby&logoColor=000000)](https://www.ruby-lang.org/en/)
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://www.cplusplus.com/)
+&emsp;
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+&emsp;
+[![JavaScript](https://img.shields.io/badge/Javascript-f7e018?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)
 &emsp;
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 &emsp;
+[![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=yellow)](https://www.python.org/)
+&emsp;
+[![Ruby](https://img.shields.io/badge/Ruby-B01401?style=for-the-badge&logo=ruby&logoColor=000000)](https://www.ruby-lang.org/en/)
+&emsp;
 [![Rust](https://img.shields.io/badge/Rust-696b70?style=for-the-badge&logo=rust&logoColor=000000)](https://www.rust-lang.org/)
+&emsp;
+[![TypeScript](https://img.shields.io/badge/Typescript-2D79C7?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
 #### Langues de Majoration:-
 
@@ -76,13 +78,23 @@
 
 #### Technologies et Outils:-
 
-[![Visual Stodio Code](https://img.shields.io/badge/Visual_Studio_Code-3d3d3d?style=for-the-badge&logo=visual%20studio%20code&logoColor=0078D4)](https://code.visualstudio.com/)
+[![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/AbdelrahmanDwedar)
 &emsp;
-[![Git](https://img.shields.io/badge/Git-f34f29?style=for-the-badge&logo=Git&logoColor=white)](https://git-scm.com/)
+[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codewars.com/users/AbdelrahmanDwedar)
 &emsp;
 [![Figma](https://img.shields.io/badge/Figma-3d3d3d?style=for-the-badge&logo=Figma&logoColor=e04a34)](https://www.figma.com/)
 &emsp;
+[![Git](https://img.shields.io/badge/Git-f34f29?style=for-the-badge&logo=Git&logoColor=white)](https://git-scm.com/)
+&emsp;
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/AbdelrahmanDwedar/)
+&emsp;
+[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/)
+&emsp;
+[![Repl.it](https://img.shields.io/badge/Repl.it-%230D101E.svg?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/)
+&emsp;
 [![sublime text](https://img.shields.io/badge/Sublime_text-4B4B4B?style=for-the-badge&logo=sublime-text&logoColor=FF9800)](https://www.sublimetext.com/3)
+&emsp;
+[![Visual Stodio Code](https://img.shields.io/badge/Visual_Studio_Code-3d3d3d?style=for-the-badge&logo=visual%20studio%20code&logoColor=0078D4)](https://code.visualstudio.com/)
 
 #### Mes Blogs:-
 
