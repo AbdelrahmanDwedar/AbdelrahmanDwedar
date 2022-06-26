@@ -46,6 +46,8 @@
 &emsp;
 [![JavaScript](https://img.shields.io/badge/Javascript-f7e018?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)
 &emsp;
+![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+&emsp;
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 &emsp;
 [![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=yellow)](https://www.python.org/)
