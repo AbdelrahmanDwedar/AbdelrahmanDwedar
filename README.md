@@ -7,7 +7,7 @@
 * **Self-tought** developer.
 * **Software** developer.
 * Currentlly **highschool student**.
-* Hopes to be a **senior software engneer**.
+* Hopes to be a **senior software engineer**.
 * Currentlly working as **Freelancer**  
 
 ```cpp
