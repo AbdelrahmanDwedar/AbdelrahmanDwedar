@@ -10,22 +10,21 @@
 * Momentan als **Freelancer** arbeiten.
 
 ```cpp
-{
-  name: "Abdelrahman",
-  age: 16,
-  country: "Egypt"
-  available_languages: [
-    "C",
-    "C++",
-    "C#",
-    "Python",
-    "JavaScript",
-    "TypeScript",
-    "PHP",
-    "Ruby",
-    "HTML",
-    "CSS"
-  ]
+int main() {
+	Person Me(
+		name: "Abdelrahman Dwedar",
+		age: 17,
+		nationality: "Egyption",
+		live_in: "Egypt",
+		languages: {
+			"C/C++",
+			"Python",
+			"JavaScript",
+			"TypeScript",
+			"PHP",
+			"Dart"
+		}
+	);
 }
 ```
 
