@@ -67,6 +67,14 @@ int main() {
 &emsp;
 [![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
 
+#### Serialization Languages
+
+[![json](https://img.shields.io/badge/json-ffa800?style=for-the-badge&logo=json&logoColor=white)](https://www.json.org/json-en.html)
+&emsp;
+[![xml](https://img.shields.io/badge/xml-686868?style=for-the-badge&logo=xml&logoColor=white)](https://www.w3.org/standards/xml/core#:~:text=What%20is%20XML%3F,more%20suitable%20for%20Web%20use.)
+&emsp;
+[![yaml](https://img.shields.io/badge/yaml-990099?style=for-the-badge&logo=yaml&logoColor=white)](https://yaml.org/)
+
 #### Styling Languages:-
 
 [![CSS](https://img.shields.io/badge/Css3-214CE5?style=for-the-badge&logo=css3&logoColor=white)]()
