@@ -35,7 +35,7 @@ int main() {
 
 #### Programming Languages:- 
 
-[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](url)
+[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)]()
 &emsp;
 [![C#](https://img.shields.io/badge/C%23-682876?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 &emsp;
@@ -55,8 +55,6 @@ int main() {
 &emsp;
 [![Ruby](https://img.shields.io/badge/Ruby-B01401?style=for-the-badge&logo=ruby&logoColor=000000)](https://www.ruby-lang.org/en/)
 &emsp;
-[![Rust](https://img.shields.io/badge/Rust-696b70?style=for-the-badge&logo=rust&logoColor=000000)](https://www.rust-lang.org/)
-&emsp;
 [![TypeScript](https://img.shields.io/badge/Typescript-2D79C7?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
 #### Markup Languages:-
@@ -67,7 +65,7 @@ int main() {
 
 #### Styling Languages:-
 
-[![CSS](https://img.shields.io/badge/Css3-214CE5?style=for-the-badge&logo=css3&logoColor=white)](url)
+[![CSS](https://img.shields.io/badge/Css3-214CE5?style=for-the-badge&logo=css3&logoColor=white)]()
 &emsp;
 [![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com)
 
@@ -116,7 +114,7 @@ int main() {
 ---
  
 ## Stats
-<details>
+<details open>
 <summary>GitHub Stats</summary>
 
 <a href="http://www.github.com/AbdelrahmanDwedar"><img src="https://github-readme-stats.vercel.app/api?username=AbdelrahmanDwedar&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="AbdelrahmanDwedar's GitHub stats" /></a>
@@ -128,12 +126,12 @@ int main() {
 <a href="http://www.github.com/AbdelrahmanDwedar"><img src="https://activity-graph.herokuapp.com/graph?username=AbdelrahmanDwedar&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 </details>
-<details>
+<details open>
 <summary>Dev Card (<a href="https://app.daily.dev/">Daily.dev</a>)</summary>
 
 [<img src="https://api.daily.dev/devcards/9d34a8e386d24adf8d75ad4366eb254b.png?r=pra" width="300" alt="Abdelrahman Dwedar's Dev Card"/>](https://app.daily.dev/3_Dwedar)
 </details>
-<details>
+<details open>
 <summary>Working Stats (powered by <a href="https://wakatime.com/">WakaTime</a>)</summary>
 
 [![Wakatime stats](https://wakatime.com/share/@92b916ee-362a-4ef1-82f5-0f518b8caf25/fe912e68-8957-420e-b8fd-e80379741bc1.png)](https://wakatime.com/)
