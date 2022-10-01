@@ -35,6 +35,8 @@ int main() {
 
 #### Lenguajes de programación:- 
 
+[![bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash)
+&emsp;
 [![C](https://img.shields.io/badge/C-00600C?style=for-the-badge&logo=c&logoColor=white)]()
 &emsp;
 [![C#](https://img.shields.io/badge/C%22-682876?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
