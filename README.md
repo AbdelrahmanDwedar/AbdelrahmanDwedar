@@ -4,11 +4,11 @@
 ---
 
 ## <img src="https://img.icons8.com/fluency-systems-filled/48/000000/guest-male.png" width="30" alt="About me"/> About Me <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="290" align="right">
-* **Self-tought** developer.
+* **Self-taught** developer.
 * **Software** developer.
-* Currentlly **highschool student**.
+* Currently **highschool student**.
 * Hopes to be a **senior software engineer**.
-* Currentlly working as **Freelancer**  
+* Currently working as **Freelancer**  
 
 ```cpp
 int main() {
