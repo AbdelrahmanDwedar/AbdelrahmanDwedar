@@ -4,11 +4,11 @@
 ---
 
 ## <img src="https://img.icons8.com/fluency-systems-filled/48/000000/guest-male.png" width="30" alt="About me"/> About Me <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="290" align="right">
-* **Self-tought** developer.
+* **Self-taught** developer.
 * **Software** developer.
-* Currentlly **highschool student**.
+* Currently **highschool student**.
 * Hopes to be a **senior software engineer**.
-* Currentlly working as **Freelancer**  
+* Currently working as **Freelancer**  
 
 ```cpp
 int main() {
@@ -50,6 +50,8 @@ int main() {
 [![JavaScript](https://img.shields.io/badge/Javascript-f7e018?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)
 &emsp;
 [![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
+&emsp;
+[![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)](https://www.lua.org/)
 &emsp;
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 &emsp;
