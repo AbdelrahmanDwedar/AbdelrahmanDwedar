@@ -108,6 +108,8 @@ int main() {
 &emsp;
 [![sublime text](https://img.shields.io/badge/Sublime_text-4B4B4B?style=for-the-badge&logo=sublime-text&logoColor=FF9800)](https://www.sublimetext.com/3)
 &emsp;
+[![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)](https://www.vim.org/)
+&emsp;
 [![Visual Stodio Code](https://img.shields.io/badge/Visual_Studio_Code-3d3d3d?style=for-the-badge&logo=visual%20studio%20code&logoColor=0078D4)](https://code.visualstudio.com/) c
 
 #### Meine Blogs:-
