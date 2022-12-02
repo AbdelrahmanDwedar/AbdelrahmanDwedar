@@ -61,11 +61,27 @@ int main() {
 &emsp;
 [![TypeScript](https://img.shields.io/badge/Typescript-2D79C7?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
+#### Serialization Languages
+
+[![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)](https://www.json.org/)
+&emsp;
+[![YAML](https://img.shields.io/badge/YAML-56347C?&style=for-the-badge&logo=yaml&logoColor=white)](https://yaml.org)
+&emsp;
+[![XML](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)](https://www.w3.org/XML/)
+
 #### Markup Languages:-
 
 [![HTML](https://img.shields.io/badge/Html5-E54C21?style=for-the-badge&logo=html5&logoColor=white)](https://html.com/)
 &emsp;
 [![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
+
+#### Serialization Languages
+
+[![json](https://img.shields.io/badge/json-ffa800?style=for-the-badge&logo=json&logoColor=white)](https://www.json.org/json-en.html)
+&emsp;
+[![xml](https://img.shields.io/badge/xml-686868?style=for-the-badge&logo=xml&logoColor=white)](https://www.w3.org/standards/xml/core#:~:text=What%20is%20XML%3F,more%20suitable%20for%20Web%20use.)
+&emsp;
+[![yaml](https://img.shields.io/badge/yaml-990099?style=for-the-badge&logo=yaml&logoColor=white)](https://yaml.org/)
 
 #### Styling Languages:-
 
