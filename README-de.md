@@ -126,6 +126,8 @@ int main() {
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/abdelrahman_dwedar)
 &emsp;
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@Abedo)
+&emsp;
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@abdelrahmandwedar)
 ---
  
 ## Statistik
