@@ -60,6 +60,8 @@ int main() {
 &emsp;
 [![Ruby](https://img.shields.io/badge/Ruby-B01401?style=for-the-badge&logo=ruby&logoColor=000000)](https://www.ruby-lang.org/en/)
 &emsp;
+[![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)](https://rust-lang.org/)
+&emsp;
 [![TypeScript](https://img.shields.io/badge/Typescript-2D79C7?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
 #### Markup-Sprachen:-
