@@ -63,21 +63,6 @@ int main() {
 &emsp;
 [![TypeScript](https://img.shields.io/badge/Typescript-2D79C7?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
-bash 
-c 
-c# 
-c++
-dart
-go
-java 
-javascript 
-kotlin 
-lua 
-php 
-python
-ruby
-typescript 
-
 #### Markup Languages:-
 
 [![HTML](https://img.shields.io/badge/Html5-E54C21?style=for-the-badge&logo=html5&logoColor=white)](https://html.com/)
