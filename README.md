@@ -1,14 +1,15 @@
 <link href="/assets/styles.css" rel="stylesheet"></link>
-<h1 align="center"><img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" alt="hey" width="40"> Hey there,<br> I'm Abdelrahman Dwedar</h1> 
+<h1 align="center"><img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" alt="hey" width="40"> Hey there,<br> I'm Abdelrahman Dwedar</h1>
 
 ---
 
 ## <img src="https://img.icons8.com/fluency-systems-filled/48/000000/guest-male.png" width="30" alt="About me"/> About Me <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="290" align="right">
-* **Self-taught** developer.
-* **Software** developer.
-* Currently **highschool student**.
-* Hopes to be a **senior software engineer**.
-* Currently working as **Freelancer**  
+
+- **Self-taught** developer.
+- **Software** developer.
+- Currently **highschool student**.
+- Hopes to be a **senior software engineer**.
+- Currently working as **Freelancer**
 
 ```cpp
 int main() {
@@ -33,7 +34,7 @@ int main() {
 
 ## <img src="https://user-images.githubusercontent.com/67812625/137175204-80bbeb5c-b861-4328-a801-a759791f5aa1.png" width="55" alt="Languages"> My Tools
 
-#### Programming Languages:- 
+#### Programming Languages:-
 
 [![bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash)
 &emsp;
@@ -101,6 +102,16 @@ int main() {
 &emsp;
 [![Vue](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)](https://vuejs.org/)
 
+#### Databases
+
+[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+&emsp;
+[![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+&emsp;
+[![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)](http://redis.com/)
+&emsp;
+[![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
+
 #### Technologies & Tools:-
 
 [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/AbdelrahmanDwedar)
@@ -128,14 +139,17 @@ int main() {
 [![Visual Stodio Code](https://img.shields.io/badge/Visual_Studio_Code-3d3d3d?style=for-the-badge&logo=visual%20studio%20code&logoColor=0078D4)](https://code.visualstudio.com/)
 
 #### My Blogs:-
+
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/abdelrahman_dwedar)
 &emsp;
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@Abedo)
 &emsp;
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@abdelrahmandwedar)
+
 ---
- 
+
 ## Stats
+
 <details open>
 <summary>GitHub Stats</summary>
 
@@ -152,6 +166,7 @@ int main() {
 <summary>Dev Card (<a href="https://app.daily.dev/">Daily.dev</a>)</summary>
 
 [<img src="https://api.daily.dev/devcards/9d34a8e386d24adf8d75ad4366eb254b.png?r=pra" width="300" alt="Abdelrahman Dwedar's Dev Card"/>](https://app.daily.dev/3_Dwedar)
+
 </details>
 <details open>
 <summary>Working Stats (powered by <a href="https://wakatime.com/">WakaTime</a>)</summary>
@@ -163,6 +178,7 @@ int main() {
 ---
 
 ## <img src="https://i.ibb.co/wpcck6r/pngegg-5.png" width="30" alt="Contacts"> My Contacts
+
 <div align="center">
   <a href="https://dev.to/abdelrahman_dwedar" style="border-reduce: 50%"><img alt="DEV" src="./assets/images/Devdotto-logo.png" width="35"></a>
   <a href="https://hashnode.com/@Adobe"><img alt="Hashnode" src="./assets/images/Hashnode-logo.png" width="35"></a>
