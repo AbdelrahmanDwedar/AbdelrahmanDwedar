@@ -9,25 +9,6 @@
 * Möchte **Senior Software Engneer** werden.
 * Momentan als **Freelancer** arbeiten.
 
-```cpp
-int main() {
-	Person Me(
-		name: "Abdelrahman Dwedar",
-		age: 17,
-		nationality: "Egyption",
-		live_in: "Egypt",
-		languages: {
-			"C/C++",
-			"Python",
-			"JavaScript",
-			"TypeScript",
-			"PHP",
-			"Dart"
-		}
-	);
-}
-```
-
 ---
 
 ## <img src="https://user-images.githubusercontent.com/67812625/137175204-80bbeb5c-b861-4328-a801-a759791f5aa1.png" width="55" alt="Languages"> Meine Tools
