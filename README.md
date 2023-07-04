@@ -134,21 +134,19 @@
 <details open>
 <summary>GitHub Stats</summary>
 
-<a href="http://www.github.com/AbdelrahmanDwedar"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbdelrahmanDwedar&hide_border=true&theme=tokyonight" alt="Summary of commits" /></a>
+[![Summary of commits](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbdelrahmanDwedar&hide_border=true&theme=tokyonight)](http://www.github.com/AbdelrahmanDwedar)
 
-<a href="http://www.github.com/AbdelrahmanDwedar"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AbdelrahmanDwedar&hide_border=true&theme=tokyonight" alt="stats of commits" /></a>
+[![stats of commits](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AbdelrahmanDwedar&hide_border=true&theme=tokyonight)](http://www.github.com/AbdelrahmanDwedar)
 
-<a href="http://www.github.com/AbdelrahmanDwedar"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdelrahmanDwedar&hide_border=true&theme=tokyonight" alt="commits streak stats" /></a>
+[![commits streak stats](https://github-readme-streak-stats.herokuapp.com/?user=AbdelrahmanDwedar&hide_border=true&theme=tokyonight)](http://www.github.com/AbdelrahmanDwedar)
 
-<a href="https://github.com/AbdelrahmanDwedar" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrahmanDwedar&langs_count=7&hide_border=true&theme=tokyonight" alt="Top Languages" /></a>
-
-<a href="http://www.github.com/AbdelrahmanDwedar"><img src="https://activity-graph.herokuapp.com/graph?username=AbdelrahmanDwedar&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrahmanDwedar&langs_count=7&hide_border=true&theme=tokyonight)](http://www.github.com/AbdelrahmanDwedar)
 
 </details>
 <details open>
 <summary>Dev Card (<a href="https://app.daily.dev/">Daily.dev</a>)</summary>
 
-[<img src="https://api.daily.dev/devcards/9d34a8e386d24adf8d75ad4366eb254b.png?r=pra" width="300" alt="Abdelrahman Dwedar's Dev Card"/>](https://app.daily.dev/3_Dwedar)
+[![Abdelrahman Dwedar's Dev Card](https://api.daily.dev/devcards/9d34a8e386d24adf8d75ad4366eb254b.png?r=pra)](https://app.daily.dev/3_Dwedar)
 
 </details>
 <details open>
