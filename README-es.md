@@ -130,13 +130,15 @@
 <details open>
 <summary>Estadísticas de GitHub</summary>
 
-<a href="http://www.github.com/AbdelrahmanDwedar"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbdelrahmanDwedar&theme=tokyonight" alt="Summary of commits" /></a>
+<a href="http://www.github.com/AbdelrahmanDwedar"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbdelrahmanDwedar&hide_border=true&theme=tokyonight" alt="Summary of commits" /></a>
 
-<a href="http://www.github.com/AbdelrahmanDwedar"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AbdelrahmanDwedar&theme=tokyonight" alt="stats of commits" /></a>
+<a href="http://www.github.com/AbdelrahmanDwedar"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AbdelrahmanDwedar&hide_border=true&theme=tokyonight" alt="stats of commits" /></a>
 
-<a href="http://www.github.com/AbdelrahmanDwedar"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdelrahmanDwedar&theme=tokyonight" alt="commits streak stats" /></a>
+<a href="http://www.github.com/AbdelrahmanDwedar"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdelrahmanDwedar&hide_border=true&theme=tokyonight" alt="commits streak stats" /></a>
 
-<a href="https://github.com/AbdelrahmanDwedar" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrahmanDwedar&langs_count=7&theme=tokyonight" alt="Top Languages" /></a>
+<a href="https://github.com/AbdelrahmanDwedar" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrahmanDwedar&langs_count=7&hide_border=true&theme=tokyonight" alt="Top Languages" /></a>
+
+<a href="http://www.github.com/AbdelrahmanDwedar"><img src="https://activity-graph.herokuapp.com/graph?username=AbdelrahmanDwedar&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 </details>
 <details open>
@@ -147,7 +149,7 @@
 <details open>
 <summary>Estadísticas de trabajo (alimentadas por <a href="https://wakatime.com/">WakaTime</a>)</summary>
 
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AbdelrahmanDwedar&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&langs_count=7)](https://wakatime.com/@AbdelrahmanDwedar)
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AbdelrahmanDwedar&langs_count=7&hide_border=true&theme=tokyonight)](https://wakatime.com/@AbdelrahmanDwedar)
 
 </details>
 
