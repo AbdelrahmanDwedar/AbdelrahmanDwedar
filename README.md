@@ -4,11 +4,15 @@
 
 ## <img src="https://img.icons8.com/fluency-systems-filled/48/000000/guest-male.png" width="30" alt="About me"/> About Me <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="290" align="right">
 
-- **Self-taught** developer.
-- **Software** developer.
-- Currently **highschool student**.
-- Hopes to be a **senior software engineer**.
-- Currently working as **Freelancer**
+- **Self-taught** software engineer with 3+ years of experience.
+- Currently working as **Backend Software Engineer @ [_Classera_](https://classera.com/)**.
+- Enthusiastic about **database design**, including **query optimization**, **storage engines**, and **Write-Ahead Logging (WAL)**.
+- Deeply interested in **software architecture**, **system design**, and **scaling complex systems**.
+- Currently pursuing a **Bachelor's degree in Computer Science**.  
+- Skilled in creating scalable, efficient APIs and **performance-optimized data handling**.
+- Proficient in **full-stack development** and highly **adaptable to new technologies**.
+- Started freelancing in **high school**, building **e-commerce apps**.
+- Open to **freelance**, **part-time**, or **full-time** opportunities.
 
 ---
 
