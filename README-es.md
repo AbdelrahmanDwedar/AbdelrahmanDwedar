@@ -3,11 +3,16 @@
 ---
 
 ## <img src="https://img.icons8.com/fluency-systems-filled/48/000000/guest-male.png" width="30" alt="About me"/> Sobre mí <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="290" align="right">
-* Desarrollador **autoajustado**.
-* Desarrollador de **Software**.
-* Estudiante **actual de secundaria**.
-* Espera ser un **ingeniero senior de software**.
-* Actualmente trabajando como **freelancer**.
+
+- **Ingeniero de software autodidacta** con más de 3 años de experiencia.  
+- Actualmente trabajando como **Ingeniero de Software Backend @ [_Classera_](https://classera.com/)**.  
+- Entusiasta del **diseño de bases de datos**, incluyendo **optimización de consultas**, **motores de almacenamiento** y **Write-Ahead Logging (WAL)**.  
+- Gran interés en **arquitectura de software**, **diseño de sistemas**, y **escalado de sistemas complejos**.  
+- Actualmente estoy cursando un **grado en Ciencias de la Computación**.  
+- Hábil en la creación de APIs escalables y eficientes con un manejo de datos **optimizado para el rendimiento**.  
+- Experto en **desarrollo full-stack** y altamente **flexible con nuevas tecnologías**.  
+- Comenzó trabajando como freelance en la **escuela secundaria**, desarrollando aplicaciones de **comercio electrónico**.  
+- Abierto a oportunidades de **freelance**, **medio tiempo**, o **tiempo completo**.  
 
 ---
 
