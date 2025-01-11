@@ -1,24 +1,24 @@
-<h1 align="center"><img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" alt="hey" width="40"> Hola,<br> soy Abdelrahman Dwedar</h1> 
+<h1 align="center">Hola,<br> soy Abdelrahman Dwedar</h1>
 
 ---
 
 ## <img src="https://img.icons8.com/fluency-systems-filled/48/000000/guest-male.png" width="30" alt="About me"/> Sobre mí <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="290" align="right">
 
-- **Ingeniero de software autodidacta** con más de 3 años de experiencia.  
-- Actualmente trabajando como **Ingeniero de Software Backend @ [_Classera_](https://classera.com/)**.  
-- Entusiasta del **diseño de bases de datos**, incluyendo **optimización de consultas**, **motores de almacenamiento** y **Write-Ahead Logging (WAL)**.  
-- Gran interés en **arquitectura de software**, **diseño de sistemas**, y **escalado de sistemas complejos**.  
-- Actualmente estoy cursando un **grado en Ciencias de la Computación**.  
-- Hábil en la creación de APIs escalables y eficientes con un manejo de datos **optimizado para el rendimiento**.  
-- Experto en **desarrollo full-stack** y altamente **flexible con nuevas tecnologías**.  
-- Comenzó trabajando como freelance en la **escuela secundaria**, desarrollando aplicaciones de **comercio electrónico**.  
-- Abierto a oportunidades de **freelance**, **medio tiempo**, o **tiempo completo**.  
+- **Ingeniero de software autodidacta** con más de 3 años de experiencia.
+- Actualmente trabajando como **Ingeniero de Software Backend @ [_Classera_](https://classera.com/)**.
+- Entusiasta del **diseño de bases de datos**, incluyendo **optimización de consultas**, **motores de almacenamiento** y **Write-Ahead Logging (WAL)**.
+- Gran interés en **arquitectura de software**, **diseño de sistemas**, y **escalado de sistemas complejos**.
+- Actualmente estoy cursando un **grado en Ciencias de la Computación**.
+- Hábil en la creación de APIs escalables y eficientes con un manejo de datos **optimizado para el rendimiento**.
+- Experto en **desarrollo full-stack** y altamente **flexible con nuevas tecnologías**.
+- Comenzó trabajando como freelance en la **escuela secundaria**, desarrollando aplicaciones de **comercio electrónico**.
+- Abierto a oportunidades de **freelance**, **medio tiempo**, o **tiempo completo**.
 
 ---
 
 ## <img src="https://user-images.githubusercontent.com/67812625/137175204-80bbeb5c-b861-4328-a801-a759791f5aa1.png" width="55" alt="Languages"> Mis Instrumentos
 
-#### Lenguajes de programación:- 
+### Lenguajes de programación
 
 [![bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash)
 &emsp;
@@ -48,13 +48,13 @@
 &emsp;
 [![TypeScript](https://img.shields.io/badge/Typescript-3D79C7?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
-#### Idiomas de marcado:-
+### Idiomas de marcado
 
 [![HTML](https://img.shields.io/badge/Html5-E54C21?style=for-the-badge&logo=html5&logoColor=white)](https://html.com/)
 &emsp;
 [![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
 
-#### Lenguajes de serialización
+### Lenguajes de serialización
 
 [![json](https://img.shields.io/badge/json-ffa800?style=for-the-badge&logo=json&logoColor=white)](https://www.json.org/json-en.html)
 &emsp;
@@ -62,13 +62,13 @@
 &emsp;
 [![yaml](https://img.shields.io/badge/yaml-990099?style=for-the-badge&logo=yaml&logoColor=white)](https://yaml.org/)
 
-#### Estilo de idiomas:-
+### Estilo de idiomas
 
 [![CSS](https://img.shields.io/badge/Css3-214CE5?style=for-the-badge&logo=css3&logoColor=white)]()
 &emsp;
 [![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com)
 
-#### Estructuras y Librerías:-
+### Estructuras y Librerías
 
 [![CakePHP](https://img.shields.io/badge/cakephp-%23FF2D20.svg?style=for-the-badge&logo=cakephp&logoColor=white)](https://cakephp.org)
 &emsp;
@@ -88,7 +88,7 @@
 &emsp;
 [![Vue](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)](https://vuejs.org/)
 
-#### Bases De Datos
+### Bases De Datos
 
 [![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)]()
 &emsp;
@@ -102,7 +102,7 @@
 &emsp;
 [![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 
-#### Herramientas de Desarrollo y Operaciones
+### Herramientas de Desarrollo y Operaciones
 
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/u/abdelrahmandwedar)
 &emsp;
@@ -112,7 +112,7 @@
 &emsp;
 [![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)]()
 
-#### Tecnologías y Herramientas:-
+### Tecnologías y Herramientas
 
 [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/AbdelrahmanDwedar)
 &emsp;
@@ -136,14 +136,16 @@
 &emsp;
 [![Visual Stodio Code](https://img.shields.io/badge/Visual_Studio_Code-3d3d3d?style=for-the-badge&logo=visual%20studio%20code&logoColor=0078D4)](https://code.visualstudio.com/)
 
-#### Mis blogs:-
+### Mis blogs
+
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/abdelrahman_dwedar)
 &emsp;
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@Abedo)
 &emsp;
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@abdelrahmandwedar)
+
 ---
- 
+
 ## Estadísticas
 <details open>
 <summary>Estadísticas de GitHub</summary>
@@ -187,7 +189,7 @@
 ---
 
 <div align="center">
-  <a alt="Arabic readme" href="README-ar.md">Árabe 🇵🇸</a> 
+  <a alt="Arabic readme" href="README-ar.md">Árabe 🇵🇸</a>
   - <a alt="English readme" href="README.md">Inglés 🇬🇧</a>
   - <a alt="French readme" href="README-fr.md">Francés 🇫🇷</a>
   - <a alt="German readme" href="README-de.md">Alemán 🇩🇪</a>

@@ -1,24 +1,24 @@
-<h1 align="center"><img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" alt="hey" width="40"> Hallo,<br> Ich bin Abdilrahmen Duidar</h1> 
+<h1 align="center">Hallo,<br> Ich bin Abdilrahmen Duidar</h1>
 
 ---
 
 ## <img src="https://img.icons8.com/fluency-systems-filled/48/000000/guest-male.png" width="30" alt="About me"/> Über Mich<img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="290" align="right">
 
-- **Autodidaktischer** Software-Ingenieur mit über 3 Jahren Erfahrung.  
-- Derzeit tätig als **Backend-Software-Ingenieur @ [_Classera_](https://classera.com/)**.  
-- Begeistert von **Datenbankdesign**, einschließlich **Abfrageoptimierung**, **Speichermotoren** und **Write-Ahead Logging (WAL)**.  
-- Stark interessiert an **Software-Architektur**, **Systemdesign** und **Skalierung komplexer Systeme**.  
-- Derzeit absolviere ich einen **Bachelor in Informatik**.  
-- Erfahren in der Entwicklung skalierbarer, effizienter APIs und **leistungsoptimierter Datenverarbeitung**.  
-- Kompetent in **Full-Stack-Entwicklung** und hoch **anpassungsfähig an neue Technologien**.  
-- Begann freiberuflich während der **Schulzeit** und entwickelte **E-Commerce-Anwendungen**.  
-- Offen für **freiberufliche**, **Teilzeit-** oder **Vollzeitmöglichkeiten**.  
+- **Autodidaktischer** Software-Ingenieur mit über 3 Jahren Erfahrung.
+- Derzeit tätig als **Backend-Software-Ingenieur @ [_Classera_](https://classera.com/)**.
+- Begeistert von **Datenbankdesign**, einschließlich **Abfrageoptimierung**, **Speichermotoren** und **Write-Ahead Logging (WAL)**.
+- Stark interessiert an **Software-Architektur**, **Systemdesign** und **Skalierung komplexer Systeme**.
+- Derzeit absolviere ich einen **Bachelor in Informatik**.
+- Erfahren in der Entwicklung skalierbarer, effizienter APIs und **leistungsoptimierter Datenverarbeitung**.
+- Kompetent in **Full-Stack-Entwicklung** und hoch **anpassungsfähig an neue Technologien**.
+- Begann freiberuflich während der **Schulzeit** und entwickelte **E-Commerce-Anwendungen**.
+- Offen für **freiberufliche**, **Teilzeit-** oder **Vollzeitmöglichkeiten**.
 
 ---
 
 ## <img src="https://user-images.githubusercontent.com/67812625/137175204-80bbeb5c-b861-4328-a801-a759791f5aa1.png" width="55" alt="Languages"> Meine Tools
 
-#### Programmiersprachen:- 
+### Programmiersprachen
 
 [![bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash)
 &emsp;
@@ -48,13 +48,13 @@
 &emsp;
 [![TypeScript](https://img.shields.io/badge/Typescript-2D79C7?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
-#### Markup-Sprachen:-
+### Markup-Sprachen
 
 [![HTML](https://img.shields.io/badge/Html5-E54C21?style=for-the-badge&logo=html5&logoColor=white)](https://html.com/)
 &emsp;
 [![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
 
-#### Serialisierungssprachen
+### Serialisierungssprachen
 
 [![json](https://img.shields.io/badge/json-ffa800?style=for-the-badge&logo=json&logoColor=white)](https://www.json.org/json-en.html)
 &emsp;
@@ -62,13 +62,13 @@
 &emsp;
 [![yaml](https://img.shields.io/badge/yaml-990099?style=for-the-badge&logo=yaml&logoColor=white)](https://yaml.org/)
 
-#### Stylingsprachen:-
+### Stylingsprachen
 
 [![CSS](https://img.shields.io/badge/Css3-214CE5?style=for-the-badge&logo=css3&logoColor=white)]()
 &emsp;
 [![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com)
 
-#### Frameworks und Bibliotheken:- <!-- Might be wrong -->
+### Frameworks und Bibliotheken <!-- Might be wrong -->
 
 [![CakePHP](https://img.shields.io/badge/cakephp-%23FF2D20.svg?style=for-the-badge&logo=cakephp&logoColor=white)](https://cakephp.org)
 &emsp;
@@ -88,7 +88,7 @@
 &emsp;
 [![Vue](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)](https://vuejs.org/)
 
-#### Datenbanken
+### Datenbanken
 
 [![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)]()
 &emsp;
@@ -102,7 +102,7 @@
 &emsp;
 [![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 
-#### DevOps-Tools
+### DevOps-Tools
 
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/u/abdelrahmandwedar)
 &emsp;
@@ -112,7 +112,7 @@
 &emsp;
 [![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)]()
 
-#### Technologien und Werkzeuge
+### Technologien und Werkzeuge
 
 [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/AbdelrahmanDwedar)
 &emsp;
@@ -136,14 +136,16 @@
 &emsp;
 [![Visual Stodio Code](https://img.shields.io/badge/Visual_Studio_Code-3d3d3d?style=for-the-badge&logo=visual%20studio%20code&logoColor=0078D4)](https://code.visualstudio.com/) c
 
-#### Meine Blogs:-
+### Meine Blogs
+
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/abdelrahman_dwedar)
 &emsp;
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@Abedo)
 &emsp;
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@abdelrahmandwedar)
+
 ---
- 
+
 ## Statistik
 <details open>
 <summary>GitHub Statistik</summary>
@@ -187,8 +189,8 @@
 ---
 
 <div align="center">
-  <a alt="Arabic readme" href="README-ar.md">Arabisch 🇵🇸</a> 
-  - <a alt="English readme" href="README.md">Englisch 🇬🇧</a> 
+  <a alt="Arabic readme" href="README-ar.md">Arabisch 🇵🇸</a>
+  - <a alt="English readme" href="README.md">Englisch 🇬🇧</a>
   - <a alt="French readme" href="README-fr.md">Französisch 🇫🇷</a>
   - <a alt="Spanish readme" href="README-es.md">Spanisch 🇪🇸</a>
 </div>
