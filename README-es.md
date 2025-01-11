@@ -160,12 +160,6 @@
 
 </details>
 <details open>
-<summary>Dev Tarjeta (<a href="https://app.daily.dev/">Daily.dev</a>)</summary>
-
-[![Abdelrahman Dwedar's Dev Card](https://api.daily.dev/devcards/9d34a8e386d24adf8d75ad4366eb254b.png?r=pra)](https://app.daily.dev/3_Dwedar)
-
-</details>
-<details open>
 <summary>Estadísticas de trabajo (alimentadas por <a href="https://wakatime.com/">WakaTime</a>)</summary>
 
 [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AbdelrahmanDwedar&langs_count=7&hide_border=true&theme=tokyonight)](https://wakatime.com/@AbdelrahmanDwedar)
