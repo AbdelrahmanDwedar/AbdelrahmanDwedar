@@ -5,13 +5,12 @@
 ## <img src="https://img.icons8.com/fluency-systems-filled/48/000000/guest-male.png" width="30" alt="About me"/> À propos de Moi <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="290" align="right">
 
 - **Ingénieur logiciel autodidacte** avec plus de 3 ans d'expérience.
-- Actuellement en poste comme **Ingénieur logiciel backend @ [_Classera_](https://classera.com/)**.
+- Actuellement en poste comme **Ingénieur logiciel backend @ _Cleverness Agency_**.
 - Enthousiaste à propos de la **conception de bases de données**, y compris l'**optimisation des requêtes**, les **moteurs de stockage**, et le **Write-Ahead Logging (WAL)**.
 - Grand intérêt pour **l'architecture logicielle**, **la conception de systèmes**, et **l'évolutivité des systèmes complexes**.
 - Je poursuis actuellement un **baccalauréat en informatique**.
 - Compétent dans la création d'API évolutives et efficaces avec un traitement des données **optimisé pour la performance**.
 - Expérimenté en **développement full-stack** et très **adaptable aux nouvelles technologies**.
-- A commencé en freelance au **lycée**, développant des applications de **commerce électronique**.
 - Ouvert à des opportunités **freelance**, **temps partiel**, ou **temps plein**.
 
 ---
