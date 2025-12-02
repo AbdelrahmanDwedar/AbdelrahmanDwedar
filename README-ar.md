@@ -2,10 +2,10 @@
 
 ---
 
-## <img src="https://img.icons8.com/fluency-systems-filled/48/000000/guest-male.png" width="30" alt="About me"/> نبذة عني <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="290" align="left">
+## <img src="https://img.icons8.com/fluency-systems-filled/48/000000/guest-male.png" width="30" alt="About me"/> نبذة عني
 
-- **مهندس برمجيات عصامي** بخبرة تزيد عن 3 سنوات.
-- يعمل حاليًا كـ **مهندس برمجيات خلفية @ _Cleverness Agency_**.
+- **مهندس برمجيات عصامي** بخبرة تزيد عن 4 سنوات.
+- يعمل حاليًا كـ **مهندس برمجيات خلفية @ _The First Agency_**.
 - مهتم بتصميم **قواعد البيانات**، بما في ذلك **تحسين الاستعلامات**، **محركات التخزين**، و **التسجيل المسبق (WAL)**.
 - شغوف بـ **هندسة البرمجيات**، **تصميم الأنظمة**، و **توسيع الأنظمة المعقدة**.
 - حاليًا أقوم بالحصول على درجة **البكالوريوس في علوم الحاسب**.

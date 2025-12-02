@@ -2,10 +2,10 @@
 
 ---
 
-## <img src="https://img.icons8.com/fluency-systems-filled/48/000000/guest-male.png" width="30" alt="About me"/> Sobre mí <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="290" align="right">
+## <img src="https://img.icons8.com/fluency-systems-filled/48/000000/guest-male.png" width="30" alt="About me"/> Sobre mí
 
-- **Ingeniero de software autodidacta** con más de 3 años de experiencia.
-- Actualmente trabajando como **Ingeniero de Software Backend @ _Cleverness Agency_**.
+- **Ingeniero de software autodidacta** con más de 4 años de experiencia.
+- Actualmente trabajando como **Ingeniero de Software Backend @ _The First Agency_**.
 - Entusiasta del **diseño de bases de datos**, incluyendo **optimización de consultas**, **motores de almacenamiento** y **Write-Ahead Logging (WAL)**.
 - Gran interés en **arquitectura de software**, **diseño de sistemas**, y **escalado de sistemas complejos**.
 - Actualmente estoy cursando un **grado en Ciencias de la Computación**.
