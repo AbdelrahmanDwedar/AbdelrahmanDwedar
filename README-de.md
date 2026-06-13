@@ -5,7 +5,7 @@
 ## <img src="https://img.icons8.com/fluency-systems-filled/48/000000/guest-male.png" width="30" alt="About me"/> Über Mich
 
 - **Autodidaktischer** Software-Ingenieur mit über 4 Jahren Erfahrung.
-- Derzeit tätig als **Backend-Software-Ingenieur @ _The First Agency_**.
+- Derzeit tätig als **Backend-Software-Ingenieur @ _Qweelvo_**.
 - Begeistert von **Datenbankdesign**, einschließlich **Abfrageoptimierung**, **Speichermotoren** und **Write-Ahead Logging (WAL)**.
 - Stark interessiert an **Software-Architektur**, **Systemdesign** und **Skalierung komplexer Systeme**.
 - Derzeit absolviere ich einen **Bachelor in Informatik**.

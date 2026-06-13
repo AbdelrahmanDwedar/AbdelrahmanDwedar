@@ -5,7 +5,7 @@
 ## <img src="https://img.icons8.com/fluency-systems-filled/48/000000/guest-male.png" width="30" alt="About me"/> About Me
 
 - **Self-taught** software engineer with 4+ years of experience.
-- Currently working as **Backend Software Engineer @ _The First Agency_**.
+- Currently working as **Backend Software Engineer @ _Qweelvo_**.
 - Enthusiastic about **database design**, including **query optimization**, **storage engines**, and **Write-Ahead Logging (WAL)**.
 - Deeply interested in **software architecture**, **system design**, and **scaling complex systems**.
 - Currently pursuing a **Bachelor's degree in Computer Science**.

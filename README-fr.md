@@ -5,7 +5,7 @@
 ## <img src="https://img.icons8.com/fluency-systems-filled/48/000000/guest-male.png" width="30" alt="About me"/> À propos de Moi
 
 - **Ingénieur logiciel autodidacte** avec plus de 4 ans d'expérience.
-- Actuellement en poste comme **Ingénieur logiciel backend @ _The First Agency_**.
+- Actuellement en poste comme **Ingénieur logiciel backend @ _Qweelvo_**.
 - Enthousiaste à propos de la **conception de bases de données**, y compris l'**optimisation des requêtes**, les **moteurs de stockage**, et le **Write-Ahead Logging (WAL)**.
 - Grand intérêt pour **l'architecture logicielle**, **la conception de systèmes**, et **l'évolutivité des systèmes complexes**.
 - Je poursuis actuellement un **baccalauréat en informatique**.
